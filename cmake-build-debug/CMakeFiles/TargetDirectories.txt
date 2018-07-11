@@ -1,0 +1,3 @@
+/Users/admin/ClionProjects/mia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/admin/ClionProjects/mia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/ClionProjects/mia/cmake-build-debug/CMakeFiles/mia.dir
